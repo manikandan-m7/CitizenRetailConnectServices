@@ -1,0 +1,16 @@
+#spring:
+ # data:
+  #  mongodb:
+   #   host: localhost
+    #  port: 27017
+     # database: retailconnect
+      
+logging:
+  level:
+    org.springframework.data.mongodb.core.MongoTemplate: DEBUG
+    
+cloudant:
+  db: retailconnect
+  url: https://081dc1cc-b099-4b86-a300-adfef3c5a9b0-bluemix.cloudantnosqldb.appdomain.cloud
+  password: 18fc0753e4f9ceda90ceee2cea9a992d5f913873976d48bd9adb73767dbf3c8e
+  username: 081dc1cc-b099-4b86-a300-adfef3c5a9b0-bluemix

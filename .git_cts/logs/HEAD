@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 69ef02754d8882c5a0080c9b41f8c6c8e6b64baf Jijo thomas K <Jijothomas.k@cognizant.com> 1587219324 +0530	commit (initial): Initial commit
+69ef02754d8882c5a0080c9b41f8c6c8e6b64baf c89367d373c701521247210aa6b3d3381a399fc9 Jijo thomas K <Jijothomas.k@cognizant.com> 1587380459 +0530	commit: Model update. Added some operations
+c89367d373c701521247210aa6b3d3381a399fc9 2637f650a26af2234cc3cb30cc5d6b5b28a10e6b Jijo thomas K <Jijothomas.k@cognizant.com> 1587383689 +0530	commit: Removed @Component annotation. can be added as required.
+2637f650a26af2234cc3cb30cc5d6b5b28a10e6b 3963fa8949c663cbd4d5b3e636c71b27cf53da09 Jijo thomas K <Jijothomas.k@cognizant.com> 1587383725 +0530	commit: corrected update logic
+3963fa8949c663cbd4d5b3e636c71b27cf53da09 70025668d639f6d6e73caa631858462797468957 Jijo thomas K <Jijothomas.k@cognizant.com> 1587383738 +0530	commit: added getshopinventories api
+70025668d639f6d6e73caa631858462797468957 04bce9ec68ac4919a397bf8996d84a000eb911ce Jijo thomas K <Jijothomas.k@cognizant.com> 1587386234 +0530	commit: Rename profile update operation
+04bce9ec68ac4919a397bf8996d84a000eb911ce 04bce9ec68ac4919a397bf8996d84a000eb911ce Jijo thomas K <Jijothomas.k@cognizant.com> 1587623672 +0530	checkout: moving from master to security-impl
+04bce9ec68ac4919a397bf8996d84a000eb911ce 016adb43e92d85d4629fb64f566b2760fde8acc4 Jijo thomas K <Jijothomas.k@cognizant.com> 1587623718 +0530	commit: security jars
+016adb43e92d85d4629fb64f566b2760fde8acc4 876b8a41a59f3d8fc9b7956d1e1a3323b0d40910 Jijo thomas K <Jijothomas.k@cognizant.com> 1587624907 +0530	commit: Added security related implementations
+876b8a41a59f3d8fc9b7956d1e1a3323b0d40910 04bce9ec68ac4919a397bf8996d84a000eb911ce Jijo thomas K <Jijothomas.k@cognizant.com> 1587624951 +0530	checkout: moving from security-impl to master
+04bce9ec68ac4919a397bf8996d84a000eb911ce 7dbb23de7e9ee1fc381d8aed3bb0db52ba91b507 Jijo thomas K <Jijothomas.k@cognizant.com> 1587625016 +0530	commit: verbs correction for customer controller
